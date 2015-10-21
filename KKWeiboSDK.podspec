@@ -1,4 +1,4 @@
-ure to run `pod lib lint WechatSDk.podspec' to ensure this is a
+#ure to run `pod lib lint KKWeiboSDK.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
