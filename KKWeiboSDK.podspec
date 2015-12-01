@@ -7,7 +7,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "KKWeiboSDK"
-s.version          = "3.1.3"
+s.version          = "3.1.3.0"
 s.summary          = "Weibo iOS SDK."
 s.homepage         = "http://open.weibo.com/wiki/SDK#iOS_SDK"
 s.license          = { :type => 'LGPL', :text => <<-LICENSE
